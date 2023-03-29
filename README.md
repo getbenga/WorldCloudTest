@@ -1,3 +1,5 @@
+### P1 review: You are asked to go over this code and perform a peer review like you normally would, feel free to add comments about styling, performance naming etc. 
+
 # Word-Cloud for common class names 
 
 On the following website: [ClassNamer.org](www.ClassNamer.org) there are suggestions for class names:)
